@@ -16,3 +16,6 @@ Criar um agente com base em IA, vc descreve o comportamento e proposito desse ag
 
 - Criar agente em branco 
 Ao criar um agente em branco, vc é capaz de personaliza-lo da maneira que desejar, podendo definir seu objetivo e comportamento ew também as bases de dados que ele pode acessar.
+
+# Desafio
+Criacao de um copiloto que ajuda com informações sobre ferramentas da Microsoft, utlizando respostas generativas, facilitando a conversasão com o usuário e tambem melhorando a experienceia do usuário. Utilizando configurações para dimuinuir a probabilidade da Ia não ser capaz de encontrar a resposta e tambem podendo customizar a qualidade da informação passada pela IA.
